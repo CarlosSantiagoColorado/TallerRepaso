@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba4a36ac-0aeb-45c3-92a8-b5c865f7e752" name="Changes" comment="Implementación GUI cliente">
+    <list default="true" id="ba4a36ac-0aeb-45c3-92a8-b5c865f7e752" name="Changes" comment="asignación de nombres a los elementos en la GUI">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TallerRepaso/ClienteApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TallerRepaso/ClienteApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/TallerRepaso/ClienteController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TallerRepaso/ClienteController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/TallerRepaso/cliente.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TallerRepaso/cliente.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TallerRepaso/cliente.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/View/cliente.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,32 +32,36 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2TzoIAu1EItB5zaHtcGohE8V4Qu" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "last_directory_selection": "C:/Users/Juan Felipe/IdeaProjects/TallerRepaso/src/main/resources/com",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/Users/Juan Felipe/IdeaProjects/TallerRepaso/src/main/resources/com&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Juan Felipe\IdeaProjects\TallerRepaso\src\main\resources\View" />
       <recent name="C:\Users\Juan Felipe\IdeaProjects\TallerRepaso\src\main\java\TallerRepaso" />
       <recent name="C:\Users\Juan Felipe\IdeaProjects\TallerRepaso\src\main\resources\com\example\tallerrepaso" />
     </key>
@@ -89,7 +94,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1692055190324</updated>
-      <workItem from="1692055191378" duration="5384000" />
+      <workItem from="1692055191378" duration="5790000" />
+      <workItem from="1692140605565" duration="1618000" />
     </task>
     <task id="LOCAL-00001" summary="Demo 1">
       <option name="closed" value="true" />
@@ -115,7 +121,15 @@
       <option name="project" value="LOCAL" />
       <updated>1692058457217</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="asignación de nombres a los elementos en la GUI">
+      <option name="closed" value="true" />
+      <created>1692060772302</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1692060772302</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,7 +138,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Demo 1" />
     <MESSAGE value="Implementación GUI cliente" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implementación GUI cliente" />
+    <MESSAGE value="asignación de nombres a los elementos en la GUI" />
+    <option name="LAST_COMMIT_MESSAGE" value="asignación de nombres a los elementos en la GUI" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
