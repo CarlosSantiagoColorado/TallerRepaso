@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ba4a36ac-0aeb-45c3-92a8-b5c865f7e752" name="Changes" comment="Implementación GUI cliente">
-      <change afterPath="$PROJECT_DIR$/src/main/java/TallerRepaso/ClienteApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/tallerrepaso/cliente.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/TallerRepaso/ClienteController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TallerRepaso/ClienteController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/TallerRepaso/cliente.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TallerRepaso/cliente.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TallerRepaso/cliente.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,11 +51,13 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Juan Felipe\IdeaProjects\TallerRepaso\src\main\java\TallerRepaso" />
       <recent name="C:\Users\Juan Felipe\IdeaProjects\TallerRepaso\src\main\resources\com\example\tallerrepaso" />
     </key>
   </component>
@@ -90,7 +89,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1692055190324</updated>
-      <workItem from="1692055191378" duration="2624000" />
+      <workItem from="1692055191378" duration="5384000" />
     </task>
     <task id="LOCAL-00001" summary="Demo 1">
       <option name="closed" value="true" />
@@ -108,7 +107,15 @@
       <option name="project" value="LOCAL" />
       <updated>1692056389627</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Implementación GUI cliente">
+      <option name="closed" value="true" />
+      <created>1692058457217</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1692058457217</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,5 +125,19 @@
     <MESSAGE value="Demo 1" />
     <MESSAGE value="Implementación GUI cliente" />
     <option name="LAST_COMMIT_MESSAGE" value="Implementación GUI cliente" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.RuntimeException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" log-message="true" type="java-exception">
+          <properties class="java.lang.reflect.InvocationTargetException" package="java.lang.reflect" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
