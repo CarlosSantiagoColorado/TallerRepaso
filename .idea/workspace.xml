@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba4a36ac-0aeb-45c3-92a8-b5c865f7e752" name="Changes" comment="asignación de nombres a los elementos en la GUI">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/TallerRepaso/ClienteApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TallerRepaso/ClienteApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/TallerRepaso/ClienteController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TallerRepaso/ClienteController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/TallerRepaso/cliente.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/View/cliente.fxml" afterDir="false" />
-    </list>
+    <list default="true" id="ba4a36ac-0aeb-45c3-92a8-b5c865f7e752" name="Changes" comment="Agosto 15/ actualización" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -95,7 +90,7 @@
       <option name="presentableId" value="Default" />
       <updated>1692055190324</updated>
       <workItem from="1692055191378" duration="5790000" />
-      <workItem from="1692140605565" duration="1618000" />
+      <workItem from="1692140605565" duration="2169000" />
     </task>
     <task id="LOCAL-00001" summary="Demo 1">
       <option name="closed" value="true" />
@@ -129,7 +124,15 @@
       <option name="project" value="LOCAL" />
       <updated>1692060772302</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Agosto 15/ actualización">
+      <option name="closed" value="true" />
+      <created>1692142752119</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1692142752119</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,7 +142,8 @@
     <MESSAGE value="Demo 1" />
     <MESSAGE value="Implementación GUI cliente" />
     <MESSAGE value="asignación de nombres a los elementos en la GUI" />
-    <option name="LAST_COMMIT_MESSAGE" value="asignación de nombres a los elementos en la GUI" />
+    <MESSAGE value="Agosto 15/ actualización" />
+    <option name="LAST_COMMIT_MESSAGE" value="Agosto 15/ actualización" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
