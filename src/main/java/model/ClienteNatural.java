@@ -29,6 +29,7 @@ public class ClienteNatural extends Cliente{
 
     @Override
     public String toString() {
+
         return "clienteNatural{" +
                 "Email='" + email + '\'' +
                 ", fechaNacimiento='" + fechaNacimiento + '\'' +

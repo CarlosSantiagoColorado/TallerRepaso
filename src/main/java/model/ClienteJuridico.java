@@ -9,6 +9,7 @@ public class ClienteJuridico {
 
     public String getNit() {
         return nit;
+
     }
 
     public void setNit(String nit) {
