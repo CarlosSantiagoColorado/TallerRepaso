@@ -1,10 +1,10 @@
 package model;
 
-public class Persona {
+public abstract class Persona {
 
     private String nombre;
     private String apellido;
-    private String Identificacion;
+    private String identificacion;
 
     public Persona(){
 
@@ -13,7 +13,7 @@ public class Persona {
     public Persona(String nombre, String apellido, String identificacion) {
         this.nombre = nombre;
         this.apellido = apellido;
-        Identificacion = identificacion;
+        this.identificacion = identificacion;
     }
 
     public String getNombre() {
@@ -33,11 +33,11 @@ public class Persona {
     }
 
     public String getIdentificacion() {
-        return Identificacion;
+        return identificacion;
     }
 
     public void setIdentificacion(String identificacion) {
-        Identificacion = identificacion;
+        this.identificacion = identificacion;
     }
 
     @Override
@@ -45,7 +45,7 @@ public class Persona {
         return "Persona{" +
                 "nombre='" + nombre + '\'' +
                 ", apellido='" + apellido + '\'' +
-                ", Identificacion='" + Identificacion + '\'' +
+                ", Identificacion='" + identificacion + '\'' +
                 '}';
     }
 }

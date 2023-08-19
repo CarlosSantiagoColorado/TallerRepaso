@@ -1,6 +1,6 @@
 package model;
 
-public class ClienteJuridico {
+public class ClienteJuridico extends Cliente {
     private String nit;
 
     public ClienteJuridico(String nit) {
